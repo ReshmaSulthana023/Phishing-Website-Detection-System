@@ -1,0 +1,20 @@
+{
+  "feature_names": [
+    "url_length",
+    "domain_length",
+    "num_dots",
+    "num_hyphens",
+    "num_subdomains",
+    "has_at_symbol",
+    "has_https",
+    "has_ip",
+    "num_digits",
+    "suspicious_keyword_count",
+    "url_depth",
+    "has_double_slash_redirect",
+    "brand_impersonation"
+  ],
+  "accuracy": 1.0,
+  "n_estimators": 200,
+  "trained_on_samples": 3000
+}
